@@ -810,20 +810,10 @@
     awilix "^8.0.0"
     graphql "^16.6.0"
 
-"@medusajs/pricing@^0.1.4":
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/@medusajs/pricing/-/pricing-0.1.4.tgz#16f5e131793ec4117150c800476a9432e29cb3b8"
-  integrity sha512-cEiBZ+l10ds8RalOT9Dq3yOEMU95Ke9MnjS/rxXKu4uI38mz9UV6vf23V1Zfe8w8wZaVdt2sv/JEhDa3jssh5A==
-  dependencies:
-    "@medusajs/modules-sdk" "^1.12.3"
-    "@medusajs/types" "^1.11.7"
-    "@medusajs/utils" "^1.11.0"
-    "@mikro-orm/core" "5.7.12"
-    "@mikro-orm/migrations" "5.7.12"
-    "@mikro-orm/postgresql" "5.7.12"
-    awilix "^8.0.0"
-    dotenv "^16.1.4"
-    knex "2.4.2"
+"@medusajs/pricing@^2.10.1":
+  version "2.10.3"
+  resolved "https://registry.yarnpkg.com/@medusajs/pricing/-/pricing-2.10.3.tgz#5d3cc6034deb70cd53102a08c33b831f1a2eeb66"
+  integrity sha512-iAZpRsiK2J4yHFGyRLYaDaubx0DpDcwdpy9BEeeXZOP8qj/szHEdXprcWwnKgu/Pk1wa3y6ByYMwWFCoH1u0/Q==
 
 "@medusajs/product@^0.3.4":
   version "0.3.4"
