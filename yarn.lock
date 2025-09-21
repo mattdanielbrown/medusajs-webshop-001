@@ -851,10 +851,10 @@
   resolved "https://registry.yarnpkg.com/@medusajs/types/-/types-1.11.7.tgz#b54c86ab96974cb9dd5158188d22517a5b5b9fd9"
   integrity sha512-KkNJd4pxu5zoiv09nsG2ARtrC17LxsDD941uX35IMfvNeWYRk31kQ59EipYE59SBvGpvatoaBHzTxSAsrebzTQ==
 
-"@medusajs/ui-preset@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@medusajs/ui-preset/-/ui-preset-1.0.2.tgz#91bd354ca7530c374af2ae909ef0583e42bdaf85"
-  integrity sha512-Z+VUZ/VbRAkAvXT4NAMO/saSouqa5BCr/SFkw/a/LdNkl3FY70nQZQ1B1fpY2BuaunmmzCON92tcjxGMXhJEHg==
+"@medusajs/ui-preset@^2.10.1":
+  version "2.10.3"
+  resolved "https://registry.yarnpkg.com/@medusajs/ui-preset/-/ui-preset-2.10.3.tgz#04c8a11e44ea7a5055ce9a19cbbc3786f702365f"
+  integrity sha512-rpWJtg4pLOxKYWA9sqhWkOgG2B0npyGO4nMqqAOh4Xl/LNCkeyeQ3Hmwj0v2mH8jhum65E/mxDVpjQ/lWFVpqQ==
   dependencies:
     "@tailwindcss/forms" "^0.5.3"
     tailwindcss-animate "^1.0.6"
