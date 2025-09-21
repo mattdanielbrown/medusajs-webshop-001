@@ -672,6 +672,11 @@
     "@mikro-orm/postgresql" "5.7.12"
     awilix "^8.0.0"
 
+"@medusajs/link-modules@^2.10.1":
+  version "2.10.3"
+  resolved "https://registry.yarnpkg.com/@medusajs/link-modules/-/link-modules-2.10.3.tgz#521ef3109d019b54f871f7593f21fe73344d523d"
+  integrity sha512-6dFyYdwBTzk1/X39tt8F/5t4UoTFCGoBHQ/SX54fzwoXs8LWDK63CsPVI+8/+y9nmf98glzdYF8JyQFovKEk6Q==
+
 "@medusajs/medusa-cli@^1.3.21":
   version "1.3.21"
   resolved "https://registry.yarnpkg.com/@medusajs/medusa-cli/-/medusa-cli-1.3.21.tgz#d69707a268e04e28db60ad823f2114c3086b2cec"
