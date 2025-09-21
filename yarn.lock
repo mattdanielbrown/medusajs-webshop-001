@@ -825,21 +825,10 @@
     dotenv "^16.1.4"
     knex "2.4.2"
 
-"@medusajs/product@^0.3.4":
-  version "0.3.4"
-  resolved "https://registry.yarnpkg.com/@medusajs/product/-/product-0.3.4.tgz#af2210d49750c41c58e7572963780f7168bd2f6a"
-  integrity sha512-GBmNw1puI1sG7xlkZ55HPzpUN9EB/LkWW8GrOp971KSK9/1ITouFY0GMEPZNHsESwCDBD2aDCh/LJsf7NASoUQ==
-  dependencies:
-    "@medusajs/modules-sdk" "^1.12.3"
-    "@medusajs/types" "^1.11.7"
-    "@medusajs/utils" "^1.11.0"
-    "@mikro-orm/core" "5.7.12"
-    "@mikro-orm/migrations" "5.7.12"
-    "@mikro-orm/postgresql" "5.7.12"
-    awilix "^8.0.0"
-    dotenv "^16.1.4"
-    knex "2.4.2"
-    lodash "^4.17.21"
+"@medusajs/product@^2.10.1":
+  version "2.10.3"
+  resolved "https://registry.yarnpkg.com/@medusajs/product/-/product-2.10.3.tgz#3a2e1fb98c85edc0146f92bf3ea956b0087e524e"
+  integrity sha512-34Yyf9wM2iYNbgNVYfcMdSpIw+PskZWO4FkUZ5+lBGigBZJlvhYu5261IVbYAPFXP2iAk2qtcIo9P1eRl2VO0A==
 
 "@medusajs/types@^1.11.1":
   version "1.11.1"
